@@ -1,0 +1,11 @@
+[07-Apr-2021 07:46:21 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawrevee/public_html/profile/lrv-treeview1.php on line 125
+[09-Apr-2021 11:06:17 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawrevee/public_html/profile/lrv-profile.php on line 152
+[12-Apr-2021 16:01:14 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawrevee/public_html/profile/lrv-treeview1.php on line 125
+[12-Apr-2021 16:02:00 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawrevee/public_html/profile/lrv-treeview1.php on line 125
+[12-Apr-2021 16:04:08 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawrevee/public_html/profile/lrv-treeview1.php on line 125
+[12-Apr-2021 22:04:52 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawrevee/public_html/profile/lrv-treeview1.php on line 125
+[12-Apr-2021 22:04:53 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawrevee/public_html/profile/lrv-treeview1.php on line 125
+[26-Apr-2021 15:31:14 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawrevee/public_html/profile/lrv-treeview1.php on line 125
+[17-May-2021 06:10:29 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/lawrevee/public_html/profile/lrv-treeview1.php on line 125
+[15-Sep-2021 12:13:27 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/lawrevee/public_html/oldsite/profile/lrv-treeview1.php on line 125
+[15-Sep-2021 16:14:50 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/lawrevee/public_html/oldsite/profile/lrv-treeview1.php on line 125

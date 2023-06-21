@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/eams.config.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/eams.init.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/eams.sess.login.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/eams.user.dictionary.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/index.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/login.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/page.managereport.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/page.schedules.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src.online.php" dialect="GenericSQL" />
+  </component>
+</project>

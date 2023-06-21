@@ -1,0 +1,78 @@
+.header-banner{
+    font-weight: 900 !important;
+    color: darkred;
+}
+
+.cust-red{
+    color: red !important;
+}
+
+.back-red{
+    background: red !important;
+}
+
+.no-wall{
+    border: 0 !important;
+    font-weight: 900 !important;
+}
+
+#footer {
+    position: fixed;
+    padding: 10px 10px 0 10px;
+    bottom: 0;
+    width: 100%;
+    /* Height of the footer*/
+    height: 40px;
+    background: grey;
+}
+
+.plus{
+    color: green !important;
+    font-size: 22px !important;
+}
+
+.trash{
+    color: red !important;
+    font-size: 20px !important;
+}
+
+.ClsButt{
+    font-size: 20px !important;
+    color: red !important;
+}
+
+tr{
+    padding: 0 !important;
+}
+
+table{
+    background: ghostwhite !important;
+}
+
+.TaskInput{
+    width: 100%;
+    height: 40px;
+    border: 0 transparent !important;
+    background: transparent;
+    outline: none;
+}
+
+#IgniteVal{
+    height: 30px !important;
+    border-radius: 5px !important;
+    border: 1px solid darkblue !important;
+    width: 200px !important;
+    color: red !important;
+    background: lightgoldenrodyellow !important;
+}
+
+.ScrollTbl{
+    padding: 0;
+    overflow-x: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.ScrollTbl::-webkit-scrollbar{
+    display: none;
+}
